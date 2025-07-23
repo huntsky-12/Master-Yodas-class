@@ -2,6 +2,9 @@
 
 A C-based terminal project that simulates a university-level course recommendation, choice filling, and allotment system, tailored by CGPA and student interests — complete with waitlisting, faculty lookup, and eligibility filters.
 
+
+"Do. Or do not. There is no try."
+— Yoda
 ---
 
 ## Features
