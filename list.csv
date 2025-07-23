@@ -1,0 +1,13 @@
+Department,Semester,Section Code,Course Code,Type,Course Name,CGPA Required,Credits,Faculty Name,Related Interests
+CSE,4,CSEA101,CS201,Core,Data Structures,7.0,4.0,David Clark,Problem Solving
+CSE,4,CSEA102,CS201,Core,Data Structures,7.0,4.0,Susan Lee,Problem Solving
+CSE,4,CSEA103,CS201,Core,Data Structures,7.0,4.0,Michael Tan,Problem Solving
+CSE,4,CSEA111,CS202,Core,Algorithms,7.5,4.0,Ananya Nair,Algorithms
+CSE,4,CSEA112,CS202,Core,Algorithms,7.5,4.0,Raj Sharma,Algorithms
+CSE,4,CSEA113,CS202,Core,Algorithms,7.5,4.0,Arun Bhat,Algorithms
+CSE,4,CSEA121,CS301,Elective,AI & ML,8.0,3.0,Aisha Khan,AI/ML
+CSE,4,CSEA122,CS301,Elective,AI & ML,8.0,3.0,Veena Desai,AI/ML
+CSE,4,CSEA123,CS301,Elective,AI & ML,8.0,3.0,Sonia Anand,AI/ML
+ECE,4,ECEA201,EC101,Core,Microprocessors,6.0,4.0,Anjali Rao,System Architecture
+ECE,4,ECEA202,EC101,Core,Microprocessors,6.0,4.0,Praveen Verma,System Architecture
+ECE,4,ECEA301,EC106,Elective,Digital Signal Processing,7.0,3.0,Shruti Mehra,Signal Processing

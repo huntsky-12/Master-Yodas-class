@@ -1,0 +1,9 @@
+Course_code,Section_Code,Name,Number_Allotted,Seats_Left,Number_Waitlisted
+CSEA101,CSE1001,Data Structures,35,5,2
+CSEA102,CSE1002,Algorithms,30,10,0
+CSEA103,CSE1003,Operating Systems,32,8,1
+CSEA104,CSE1004,Machine Learning,20,10,3
+CSEA105,CSE1005,Cloud Computing,25,5,0
+ECEA201,ECE2211,Microprocessors,28,2,1
+EEA103,EE2311,Power Systems,15,5,0
+
